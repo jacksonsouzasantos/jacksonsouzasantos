@@ -6,7 +6,7 @@
   <a  />
   </a><br>
   
-  <p align="center">📚 Formação gastronomia | 🖥️ redes de computadores | em transição de carreira | objeto Fullstak 🚀 </h2>
+  <p align="center">📚 Formação gastronomia | 🖥️ redes de computadores | em transição de carreira | objetvo Fullstak 🚀 </h2>
 </div>
 
 
