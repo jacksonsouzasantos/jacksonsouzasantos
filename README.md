@@ -1,12 +1,12 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/feed/"><i>Jackson Santos</i></a></h1>
   
-  <p align="center">Estudante de desenvolvimento na<a href="https://www.betrybe.com/"><i>Trybe</i>
+  <p align="center">Estudante de desenvolvimento de software para web na <a href="https://www.betrybe.com/"><i>Trybe</i>
   
   <a  />
   </a><br>
   
-  <p align="center">📚 Formação gastronomia | 🖥️ redes de computadores | em transição de carreira | objetvo Fullstak 🚀 </h2>
+  <p align="center">📚 Formação gastronomia | 🖥️ redes de computadores | em transição de carreira | objetvo Fullstack 🚀 </h2>
 </div>
 
 
@@ -28,6 +28,18 @@
  <a href="https://twitter.com/souzaTEC?t=dO1Sd7v_8jS-Yad5j-T98Q&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="mailto:jacksonsantos.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><br>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsouzasantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonsouzasantos&show_icons=true&theme=radical)
+  
 </div>
 
 <div align="center">
@@ -36,6 +48,4 @@
   
 </div>
 
-<div align="center">
-  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e Jackson Santos</p>
-</div>
+
