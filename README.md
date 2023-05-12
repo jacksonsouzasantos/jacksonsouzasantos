@@ -7,7 +7,7 @@
   </a><br>
   
   <p align="center">📚 Formação em gastronomia e redes de computadores sou um profissional em transição de carreira </h2>
-   <p align="center">:dart: Meu objetivo é consolidar todos os aprendizados e conhecimentos nas tecnologias front-end e</h2>
+   <p align="center">:dart: Meu objetivo é consolidar todos os aprendizados e conhecimentos nas tecnologias front-end e back-end</h2>
     <p align="center"> trilhar uma carreira rumo ao Fullstack 🚀 </h2>
 </div>
 
