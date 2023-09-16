@@ -43,7 +43,7 @@ ________________________________________________________________________________
  
 </div></br>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jacksonsouzasantos&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ________________________________________________________________________________________________________________________________________________________
 <h1><i>Contatos</i></a></h1>
 <div ">
