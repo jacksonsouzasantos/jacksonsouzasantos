@@ -1,14 +1,14 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/feed/"><i>Jackson Santos</i></a></h1>
   
-  <p align="center">Desenvolvedor web. Estudando desenvolvimemto mobile <a href="https://www.betrybe.com/"><i>Trybe</i>
+  <p align="center">Desenvolvedor web<a href="https://www.betrybe.com/"><i></i>
   
   <a  />
   </a><br>
   
-  <p align="center">📚 Formação em gastronomia e redes de computadores sou um profissional em transição de carreira </h2>
-   <p align="center">:dart: Meu objetivo é consolidar todos os aprendizados e conhecimentos nas tecnologias front-end</h2>
-    <p align="center"> trilhar uma carreira mobile 🚀 </h2>
+  <p align="center">📚 Formação em gastronomia e redes de computadores, cursando cybersegurity e governança de dados</h2>
+   <p align="center">:dart: Meu objetivo é consolidar todos os aprendizados e conhecimentos</h2>
+    <p align="center"> trilhar uma carreira sólida em TI 🚀 </h2>
 </div>
 
 ________________________________________________________________________________________________________________________________________________________
